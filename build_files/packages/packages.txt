@@ -2,6 +2,7 @@ blueman
 btop
 compsize
 distrobox
+dnf5-plugins
 ffmpeg
 flatpak
 fwupd
