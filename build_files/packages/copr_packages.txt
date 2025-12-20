@@ -1,0 +1,7 @@
+hypridle
+hyprland
+hyprlock
+hyprpaper
+hyprpolkitagent
+hyprshot
+xdg-desktop-portal-hyprland

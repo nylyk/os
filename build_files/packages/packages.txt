@@ -19,11 +19,13 @@ google-noto-sans-symbols-vf-fonts
 google-noto-sans-thai-vf-fonts
 google-noto-sans-vf-fonts
 google-noto-serif-vf-fonts
+greetd
 gstreamer1-plugins-base
 gstreamer1-plugins-good
 hunspell
 hunspell-en
 kernel-modules-extra
+kitty
 langpacks-core-en
 libva-intel-media-driver
 lm_sensors
@@ -36,9 +38,11 @@ pipewire
 power-profiles-daemon
 rtkit
 thermald
+tuigreet
 unzip
 upower
 vulkan-loader
+waybar
 wf-recorder
 wget2
 wireguard-tools

@@ -11,7 +11,6 @@ FROM quay.io/fedora/fedora-bootc:43
 RUN rm -r /opt && mkdir /opt
 
 RUN --mount=type=bind,from=build_files,source=/,target=/build_files \
-    --mount=type=bind,from=repo_files,source=/,target=/repo_files \
     --mount=type=cache,dst=/var/cache \
     --mount=type=cache,dst=/var/log \
     --mount=type=tmpfs,dst=/tmp \
